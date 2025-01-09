@@ -1,6 +1,7 @@
 # Improved Dual Wielder
 *General Feat (Prerequisite: Dual Wielder Feat, Strength or Dexterity 17+)*
-*Homebrew*
+
+*Player's Handbook 3.5, pg. 96*
 
 You gain the following benefits.  
 ***Ability Score Increase.*** Increase your Strength or Dexterity score by 1, to a maximum of 20.  
